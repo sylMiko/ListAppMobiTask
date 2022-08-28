@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676169161827",
+    "project_id": "majchrzak-903f5",
+    "storage_bucket": "majchrzak-903f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676169161827:android:9bebb6d9e7795130f26c56",
+        "android_client_info": {
+          "package_name": "com.client.majchrzak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676169161827-ds6vt3espf44ore5t1r7qjhngufgi8cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBgN7pNtbpa2TogQ6IWRNt-ayv2SQCgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676169161827-ds6vt3espf44ore5t1r7qjhngufgi8cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
